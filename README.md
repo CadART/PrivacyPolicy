@@ -1,1 +1,1 @@
-AutodeskAppStorePrivacyPolicy
+PrivacyPolicy
